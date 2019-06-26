@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WED", "WED\WED.csproj", "{4514956F-A8A5-4308-AEE4-DAAB32D6354D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4514956F-A8A5-4308-AEE4-DAAB32D6354D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4514956F-A8A5-4308-AEE4-DAAB32D6354D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4514956F-A8A5-4308-AEE4-DAAB32D6354D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4514956F-A8A5-4308-AEE4-DAAB32D6354D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B751E1-A3A3-4BD0-874D-9C26087F6527}
+	EndGlobalSection
+EndGlobal
